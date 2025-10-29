@@ -5,6 +5,7 @@
 
 ## Goal
 To learn the basics of functional programming and unit testing using Racket
+
 First coding project in my undergraduate career
 
 ## Overview
