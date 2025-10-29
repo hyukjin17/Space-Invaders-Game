@@ -26,6 +26,15 @@ The game ends when all invaders are destroyed or the ship is hit.
     [stop-when end? endscreen]))
 ```
 
+### Core Functions
+| Function | Purpose |
+|----------|-------------|
+| update-world | Updates ship, bullets, and removes collisions |
+| move-world | Moves all movable entities |
+| remove-hits-and-out-of-bounds | Cleans up bullets and destroyed invaders |
+| invaders-fire | Allows invaders to shoot back |
+| world-draw | Renders the current game state |
+
 ## Setup and Execution
 Requirements:
 - Racket 8.x or later
