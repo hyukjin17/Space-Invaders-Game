@@ -1,5 +1,11 @@
 # Space Invaders Game (Racket)
-![Gameplay](Gameplay.png)
+<p align="center">
+  <img src="Gameplay.png" alt="Gameplay Preview" width="500">
+</p>
+
+## Goal
+To learn the basics of functional programming and unit testing using Racket
+First coding project in my undergraduate career
 
 ## Overview
 This is a simplified Space Invaders game implemented in Racket.
